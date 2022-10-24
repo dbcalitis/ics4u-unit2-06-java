@@ -16,19 +16,6 @@ class Jet extends Airplane {
     private static int MULTIPLIER = 2;
 
     /**
-     * The getSpeed function.
-     *
-     * <p>
-     * Gets the speed.
-     * </p>
-     *
-     * @return speed - the speed of the Airplane.
-     */
-    public int getSpeed() {
-        return super.getSpeed();
-    }
-
-    /**
      * The setSpeed function.
      *
      * <p>
